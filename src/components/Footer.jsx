@@ -9,7 +9,7 @@ const Footer = () => {
           className="hover:underline text-orange-400 font-bold hover:underline-offset-8 hover:text-blue-500 "
           href="/"
         >
-          Shoppazon
+          MoviEra
         </a>{" "}
         by{" "}
         <a
